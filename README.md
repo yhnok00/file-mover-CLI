@@ -15,4 +15,4 @@ It was built as an everyday automation tool to make organizing files faster via 
 Run the script from your terminal using the following syntax:
 
 ```bash
-python script.py <source_folder> <destination_folder> [pattern]
+python script.py "source_folder" "destination_folder" "files"
